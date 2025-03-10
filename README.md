@@ -110,5 +110,5 @@ When properly deployed, you should see a dependency graph similar to this in the
 ## References
 
 This implementation was inspired by and follows patterns from:
-- [Many AppSets Demo](https://github.com/kostis-codefresh/many-appsets-demo)
+
 - [How to Structure Your Argo CD Repositories Using Application Sets](https://codefresh.io/blog/how-to-structure-your-argo-cd-repositories/)
